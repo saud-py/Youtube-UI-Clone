@@ -19,7 +19,7 @@ YouTube Clone UI is a responsive web application that replicates the user interf
 
 ## Usage
 
-1. Clone the repository: `git clone [repository_url]`
+1. Clone the repository: `git clone https://github.com/saud-py/Youtube-UI-Clone#youtube-clone-ui`
 2. Open `index.html` in your web browser to view the YouTube clone UI.
 3. Explore different sections, click on video thumbnails, and experience the responsive design.
 
