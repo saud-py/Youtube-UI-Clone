@@ -1,4 +1,4 @@
-# YouTube Clone UI https://saud-py.github.io/Youtube-UI-Clone/
+# YouTube Clone UI 
 
 ## Description
 
